@@ -3,4 +3,4 @@ Acid-Loader
 
 Runescape Loader
 
-![Screenshot](Screenshot.PNG)
+[Screenshot](Screenshot.PNG)
